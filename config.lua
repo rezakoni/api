@@ -58,7 +58,7 @@ return {
 	},
 	moderation = {
 		admins = {
-			['188548712'] = 'M.KH'
+			['153309324'] = 'reza'
 		},
 		errors = {
 			antisquig = 'This group is English-only.',
@@ -66,14 +66,13 @@ return {
 			not_mod = 'This command must be run by a moderator.',
 			not_admin = 'This command must be run by an administrator.',
 		},
-		admin_group = -132983010,
+		admin_group = -153309324,
 		realm_name = 'ADMIN GROUP',
 		antisquig = false
 	},
 	plugins = {
 		'control.lua',
 		'blacklist.lua',
-		'about.lua',
 		'floodcontrol.lua',
 		'ping.lua',
 		'whoami.lua',
