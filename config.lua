@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '143345045:AAErrHocHuiql4HrnyDdJDJ3Otc0x7G9Wjc',
+	bot_api_key = '187781914:AAEB2l6XDtiz7hyeqcKIgNeJNJfVxTtWexM',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -17,13 +17,7 @@ return {
 	admin = 00000000,
 	admin_name = 'John Smith',
 	log_chat = nil,
-	about_text = [[
-سلام من ربات apiتیم کرول هستم که کلی پلاگین دارم
-
-برای دریافت راهنمایی دستور 
-/help
-رو بفرستین
-]]	,
+	about_text = [[سازنده : @GuardBoTs_Admin]]	,
 	errors = {
 		connection = 'Connection error.',
 		results = 'No results found.',
